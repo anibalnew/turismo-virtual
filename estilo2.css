@@ -1,0 +1,22 @@
+/* Estilos para el cuadro */
+.cuadro {
+    width: 200px;           /* Ancho del cuadro */
+    height: 200px;          /* Alto del cuadro */
+    background-color: orangered; /* Color de fondo */
+    border: 2px solid #000000; /* Borde negro de 2px */
+    border-radius: 10px;    /* Esquinas redondeadas */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Sombra del cuadro */
+    margin: 20px;           /* Margen alrededor del cuadro */
+    padding: 20px;          /* Espacio interior del cuadro */
+    display: flex;          /* Usar flexbox para centrar contenido */
+    align-items: center;    /* Alineación vertical del contenido */
+    justify-content: center;/* Alineación horizontal del contenido */
+    color: white;           /* Color del texto dentro del cuadro */
+    font-family: Arial, sans-serif; /* Fuente del texto */
+    text-align: center;     /* Alineación del texto */
+    font-size: 18px;        /* Tamaño de la fuente */
+}
+
+
+
+
